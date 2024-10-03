@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a href="https://github.com/KevinKoltraka/WeatherWeb">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
